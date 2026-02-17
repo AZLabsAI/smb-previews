@@ -1,0 +1,91 @@
+{
+  "slug": "smith-plumbing",
+  "businessName": "Smith Plumbing & Heating",
+  "tagline": "Fast, Reliable Plumbing When You Need It Most",
+  "description": "Serving the Austin area for over 20 years. From emergency repairs to full system installs, we get it done right the first time.",
+  "category": "Plumbing",
+  "location": "Austin, TX",
+  "phone": "(512) 555-0182",
+  "email": "info@smithplumbing.com",
+  "address": "2847 Burnet Rd, Austin, TX 78757",
+  "website": "https://smithplumbing.com",
+  "siteQualityScore": 28,
+  "decisionMakerName": "Mike Smith",
+  "ctaLabel": "Get a Free Quote",
+  "footerTagline": "Honest work. Fair prices. Every time.",
+  "services": [
+    {
+      "name": "Emergency Repairs",
+      "description": "24/7 emergency response for burst pipes, flooding, and critical failures. We're there when it counts.",
+      "icon": "Zap"
+    },
+    {
+      "name": "Drain Cleaning",
+      "description": "Professional hydro-jetting and snaking to clear even the toughest blockages quickly.",
+      "icon": "Droplets"
+    },
+    {
+      "name": "Water Heater Service",
+      "description": "Installation, repair, and replacement of tank and tankless water heaters. All brands serviced.",
+      "icon": "Flame"
+    },
+    {
+      "name": "Pipe Repair & Repiping",
+      "description": "Leak detection, pipe repair, and full repiping for homes and commercial properties.",
+      "icon": "Wrench"
+    },
+    {
+      "name": "Fixture Installation",
+      "description": "Sinks, toilets, faucets, showers — installed perfectly, caulked, and tested before we leave.",
+      "icon": "Settings"
+    },
+    {
+      "name": "Backflow Prevention",
+      "description": "Certified backflow testing and prevention device installation to protect your water supply.",
+      "icon": "Shield"
+    }
+  ],
+  "stats": [
+    {
+      "value": "20+",
+      "label": "Years in Business",
+      "description": "Trusted since 2004"
+    },
+    {
+      "value": "5,000+",
+      "label": "Jobs Completed",
+      "description": "Homes & businesses served"
+    },
+    {
+      "value": "4.9★",
+      "label": "Google Rating",
+      "description": "247 verified reviews"
+    },
+    {
+      "value": "24/7",
+      "label": "Emergency Service",
+      "description": "Always available"
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "Mike came out within the hour and fixed our burst pipe fast. Honest pricing, no upsells. We'll never use anyone else.",
+      "author": "Jennifer R.",
+      "role": "Homeowner, Round Rock"
+    },
+    {
+      "text": "Used Smith Plumbing for a full bathroom remodel. The crew was professional, clean, and finished ahead of schedule.",
+      "author": "Carlos M.",
+      "role": "Property Manager"
+    },
+    {
+      "text": "Been using them for 8 years across 3 properties. They're simply the most reliable plumber in Austin.",
+      "author": "David K.",
+      "role": "Real Estate Investor"
+    }
+  ],
+  "colors": {
+    "primary": "#1d4ed8",
+    "secondary": "#1e40af"
+  }
+}
