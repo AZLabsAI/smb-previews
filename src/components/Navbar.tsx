@@ -21,15 +21,23 @@ export function Navbar({ data }: { data: ProspectPreviewData }) {
       }`}
     >
       <div className="max-w-5xl mx-auto px-6 flex items-center justify-between">
-        <span className="font-bold text-zinc-100 text-lg tracking-tight">
-          {data.businessName}
-        </span>
+        {data.logoUrl ? (
+          <img
+            src={data.logoUrl}
+            alt={data.businessName}
+            className="h-8 w-auto object-contain max-w-[160px]"
+          />
+        ) : (
+          <span className="font-bold text-zinc-100 text-lg tracking-tight">
+            {data.businessName}
+          </span>
+        )}
 
         <nav className="hidden md:flex items-center gap-6">
           {[
             { label: "Services", href: "#services" },
             { label: "About", href: "#stats" },
-            { label: "Testimonials", href: "#testimonials" },
+            { label: "Team", href: "#team" },
             { label: "Contact", href: "#contact" },
           ].map((link) => (
             <a

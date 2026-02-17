@@ -9,6 +9,7 @@ import { StatsSection } from "@/components/sections/Stats";
 import { ServicesSection } from "@/components/sections/Services";
 import { HowItWorksSection } from "@/components/sections/HowItWorks";
 import { TestimonialsSection } from "@/components/sections/Testimonials";
+import { TeamSection } from "@/components/sections/Team";
 import { ContactSection } from "@/components/sections/Contact";
 import { FooterSection } from "@/components/sections/Footer";
 
@@ -22,6 +23,18 @@ async function getProspectData(
   } catch {
     return null;
   }
+}
+
+function buildBrandCss(data: ProspectPreviewData): string | null {
+  const colors = data.brandColors ?? data.colors;
+  if (!colors?.primary) return null;
+  const primary = colors.primary;
+  const secondary = "secondary" in colors ? colors.secondary : undefined;
+  const accent = "accent" in colors ? colors.accent : undefined;
+  const lines = [`  --brand-primary: ${primary};`];
+  if (secondary) lines.push(`  --brand-secondary: ${secondary};`);
+  if (accent) lines.push(`  --brand-accent: ${accent};`);
+  return `:root {\n${lines.join("\n")}\n}`;
 }
 
 export async function generateMetadata({
@@ -48,13 +61,17 @@ export default async function PreviewPage({
 
   if (!data) return notFound();
 
+  const brandCss = buildBrandCss(data);
+
   return (
     <main className="min-h-screen bg-zinc-950">
+      {brandCss && <style dangerouslySetInnerHTML={{ __html: brandCss }} />}
       <Navbar data={data} />
       <HeroSection data={data} />
       <StatsSection data={data} />
       <ServicesSection data={data} />
       <HowItWorksSection data={data} />
+      <TeamSection data={data} />
       <TestimonialsSection data={data} />
       <ContactSection data={data} />
       <FooterSection data={data} />

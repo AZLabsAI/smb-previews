@@ -6,9 +6,17 @@ export function FooterSection({ data }: { data: ProspectPreviewData }) {
       <div className="max-w-5xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
           <div className="md:col-span-1">
-            <div className="font-bold text-xl text-zinc-100 mb-3">
-              {data.businessName}
-            </div>
+            {data.logoUrl ? (
+              <img
+                src={data.logoUrl}
+                alt={data.businessName}
+                className="h-8 w-auto object-contain max-w-[160px] mb-3 brightness-0 invert opacity-70"
+              />
+            ) : (
+              <div className="font-bold text-xl text-zinc-100 mb-3">
+                {data.businessName}
+              </div>
+            )}
             <p className="text-sm text-zinc-500 max-w-xs leading-relaxed">
               {data.footerTagline ??
                 `Professional ${data.category.toLowerCase()} services in ${data.location}. Licensed, insured, and trusted.`}

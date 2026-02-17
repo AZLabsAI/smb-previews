@@ -5,12 +5,25 @@ import { ArrowRight, Phone } from "lucide-react";
 import type { ProspectPreviewData } from "@/types/prospect";
 
 export function HeroSection({ data }: { data: ProspectPreviewData }) {
+  const brandPrimary =
+    data.brandColors?.primary ?? data.colors?.primary ?? "#3b82f6";
+
   return (
     <section className="min-h-screen flex flex-col items-center justify-center px-6 pt-24 pb-20 relative overflow-hidden">
-      <div className="absolute inset-0 bg-gradient-to-b from-zinc-900/40 via-transparent to-transparent" />
+      {data.heroImageUrl && (
+        <div
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{ backgroundImage: `url(${data.heroImageUrl})` }}
+        >
+          <div className="absolute inset-0 bg-zinc-950/75" />
+        </div>
+      )}
+      {!data.heroImageUrl && (
+        <div className="absolute inset-0 bg-gradient-to-b from-zinc-900/40 via-transparent to-transparent" />
+      )}
       <div
         className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[600px] rounded-full opacity-[0.06] blur-3xl"
-        style={{ background: data.colors?.primary ?? "#3b82f6" }}
+        style={{ background: brandPrimary }}
       />
 
       <div className="relative z-10 text-center max-w-3xl mx-auto">
