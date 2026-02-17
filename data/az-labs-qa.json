@@ -1,0 +1,58 @@
+{
+  "slug": "az-labs-qa",
+  "businessName": "AZ Labs QA",
+  "tagline": "Inbound You Can Trust in Your Area",
+  "description": "AZ Labs QA delivers professional inbound services to homes and businesses in Your Area. We're committed to quality, reliability, and your complete satisfaction.",
+  "category": "Inbound",
+  "location": "Your Area",
+  "phone": "+1480-955-9870",
+  "email": "Info@azlaboratories.com",
+  "website": "https://azlaboratories.com/",
+  "siteQualityScore": 95,
+  "decisionMakerName": "Integration Contact",
+  "services": [
+    {
+      "name": "Shelf-Life Testing",
+      "description": "Professional shelf-life testing services delivered with expertise and care.",
+      "icon": "Wrench"
+    },
+    {
+      "name": "Food Safety",
+      "description": "Professional food safety services delivered with expertise and care.",
+      "icon": "Shield"
+    },
+    {
+      "name": "Supplements/Vitamins",
+      "description": "Professional supplements/vitamins services delivered with expertise and care.",
+      "icon": "Zap"
+    }
+  ],
+  "stats": [
+    {
+      "value": "100%",
+      "label": "Satisfaction Guaranteed",
+      "description": "We stand behind every job"
+    },
+    {
+      "value": "5★",
+      "label": "Customer Rated",
+      "description": "Consistently top-reviewed"
+    },
+    {
+      "value": "Fast",
+      "label": "Response Time",
+      "description": "Quick turnaround on all requests"
+    },
+    {
+      "value": "Local",
+      "label": "Trusted & Established",
+      "description": "Serving Your Area"
+    }
+  ],
+  "brandColors": {
+    "primary": "#13234A",
+    "accent": "#1CCABD"
+  },
+  "ctaLabel": "Get a Free Quote",
+  "footerTagline": "Quality inbound services in Your Area."
+}
