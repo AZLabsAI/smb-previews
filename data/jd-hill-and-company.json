@@ -1,0 +1,65 @@
+{
+  "slug": "jd-hill-and-company",
+  "businessName": "JD Hill And Company",
+  "tagline": "Accounting You Can Trust in 196 Elston Ave, Benoni, 1501, South Africa",
+  "description": "JD Hill And Company delivers professional accounting services to homes and businesses in 196 Elston Ave, Benoni, 1501, South Africa. We're committed to quality, reliability, and your complete satisfaction.",
+  "category": "Accounting",
+  "location": "196 Elston Ave, Benoni, 1501, South Africa",
+  "phone": "+27 (11) 421 7146",
+  "email": "jdhill@iafrica.com",
+  "address": "196 Elston Avenue, Benoni, Gauteng, PO Box 492, Benoni, 1500",
+  "website": "https://jdhill.co.za/",
+  "siteQualityScore": 54,
+  "decisionMakerName": "JD Hill",
+  "services": [
+    {
+      "name": "Auditing Services",
+      "description": "Professional auditing services services delivered with expertise and care.",
+      "icon": "Wrench"
+    },
+    {
+      "name": "Accounting Services",
+      "description": "Professional accounting services services delivered with expertise and care.",
+      "icon": "Shield"
+    },
+    {
+      "name": "Tax Services",
+      "description": "Professional tax services services delivered with expertise and care.",
+      "icon": "Zap"
+    },
+    {
+      "name": "Statutory Services",
+      "description": "Professional statutory services services delivered with expertise and care.",
+      "icon": "Settings"
+    },
+    {
+      "name": "Business Consulting",
+      "description": "Professional business consulting services delivered with expertise and care.",
+      "icon": "Flame"
+    }
+  ],
+  "stats": [
+    {
+      "value": "100%",
+      "label": "Satisfaction Guaranteed",
+      "description": "We stand behind every job"
+    },
+    {
+      "value": "5★",
+      "label": "Customer Rated",
+      "description": "Consistently top-reviewed"
+    },
+    {
+      "value": "Fast",
+      "label": "Response Time",
+      "description": "Quick turnaround on all requests"
+    },
+    {
+      "value": "Local",
+      "label": "Trusted & Established",
+      "description": "Serving 196 Elston Ave, Benoni, 1501, South Africa"
+    }
+  ],
+  "ctaLabel": "Get a Free Quote",
+  "footerTagline": "Quality accounting services in 196 Elston Ave, Benoni, 1501, South Africa."
+}
