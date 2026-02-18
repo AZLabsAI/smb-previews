@@ -1,0 +1,63 @@
+{
+  "slug": "vanderspuy-cape-town",
+  "businessName": "VanderSpuy Cape Town",
+  "tagline": "Lawyer You Can Trust in 56 Shortmarket St, Cape Town City Centre, Cape Town, 8001, South Africa",
+  "description": "VanderSpuy Cape Town delivers professional lawyer services to homes and businesses in 56 Shortmarket St, Cape Town City Centre, Cape Town, 8001, South Africa. We're committed to quality, reliability, and your complete satisfaction.",
+  "category": "Lawyer",
+  "location": "56 Shortmarket St, Cape Town City Centre, Cape Town, 8001, South Africa",
+  "phone": "+27 21 419 3622",
+  "address": "CAPE TOWN",
+  "website": "https://vdslaw.co.za/",
+  "siteQualityScore": 58,
+  "decisionMakerName": "Charles van Breda",
+  "services": [
+    {
+      "name": "COMMERCIAL AND LITIGATION",
+      "description": "Professional commercial and litigation services delivered with expertise and care.",
+      "icon": "Wrench"
+    },
+    {
+      "name": "CONVEYANCING & PROPERTY",
+      "description": "Professional conveyancing & property services delivered with expertise and care.",
+      "icon": "Shield"
+    },
+    {
+      "name": "PERSONAL INJURY AND ROAD ACCIDENT FUND",
+      "description": "Professional personal injury and road accident fund services delivered with expertise and care.",
+      "icon": "Zap"
+    },
+    {
+      "name": "WILLS AND ESTATES",
+      "description": "Professional wills and estates services delivered with expertise and care.",
+      "icon": "Settings"
+    }
+  ],
+  "stats": [
+    {
+      "value": "100%",
+      "label": "Satisfaction Guaranteed",
+      "description": "We stand behind every job"
+    },
+    {
+      "value": "5★",
+      "label": "Customer Rated",
+      "description": "Consistently top-reviewed"
+    },
+    {
+      "value": "Fast",
+      "label": "Response Time",
+      "description": "Quick turnaround on all requests"
+    },
+    {
+      "value": "Local",
+      "label": "Trusted & Established",
+      "description": "Serving 56 Shortmarket St, Cape Town City Centre, Cape Town, 8001, South Africa"
+    }
+  ],
+  "brandColors": {
+    "primary": "#A69374",
+    "accent": "#8B9CB6"
+  },
+  "ctaLabel": "Get a Free Quote",
+  "footerTagline": "Quality lawyer services in 56 Shortmarket St, Cape Town City Centre, Cape Town, 8001, South Africa."
+}
