@@ -1,0 +1,58 @@
+{
+  "slug": "ekurhuleni-plumbing-civils",
+  "businessName": "Ekurhuleni Plumbing & Civils",
+  "tagline": "Plumber You Can Trust in 4 Curtis St, Rynfield, Benoni, 1501, South Africa",
+  "description": "Ekurhuleni Plumbing & Civils delivers professional plumber services to homes and businesses in 4 Curtis St, Rynfield, Benoni, 1501, South Africa. We're committed to quality, reliability, and your complete satisfaction.",
+  "category": "Plumber",
+  "location": "4 Curtis St, Rynfield, Benoni, 1501, South Africa",
+  "phone": "078 800 7020",
+  "email": "sales@ekurhuleniplumbing.co.za",
+  "address": "No. 4 Curtis street, Rynfield, Benoni, johannesburg, 1514",
+  "website": "http://www.ekurhuleniplumbing.co.za/",
+  "siteQualityScore": 29,
+  "services": [
+    {
+      "name": "Domestic Plumbing Services",
+      "description": "Professional domestic plumbing services services delivered with expertise and care.",
+      "icon": "Wrench"
+    },
+    {
+      "name": "Industrial Plumbing Services",
+      "description": "Professional industrial plumbing services services delivered with expertise and care.",
+      "icon": "Shield"
+    },
+    {
+      "name": "General Plumbing Services",
+      "description": "Professional general plumbing services services delivered with expertise and care.",
+      "icon": "Zap"
+    }
+  ],
+  "stats": [
+    {
+      "value": "100%",
+      "label": "Satisfaction Guaranteed",
+      "description": "We stand behind every job"
+    },
+    {
+      "value": "5★",
+      "label": "Customer Rated",
+      "description": "Consistently top-reviewed"
+    },
+    {
+      "value": "Fast",
+      "label": "Response Time",
+      "description": "Quick turnaround on all requests"
+    },
+    {
+      "value": "Local",
+      "label": "Trusted & Established",
+      "description": "Serving 4 Curtis St, Rynfield, Benoni, 1501, South Africa"
+    }
+  ],
+  "brandColors": {
+    "primary": "#006494",
+    "accent": "#4392F1"
+  },
+  "ctaLabel": "Get a Free Quote",
+  "footerTagline": "Quality plumber services in 4 Curtis St, Rynfield, Benoni, 1501, South Africa."
+}
