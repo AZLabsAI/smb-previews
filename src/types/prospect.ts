@@ -30,6 +30,8 @@ export interface BrandColors {
 
 export interface ProspectPreviewData {
   slug: string;
+  /** SMB Acquire prospect ID — used for tracking pixel and CTA endpoint */
+  prospectId?: string;
   businessName: string;
   tagline: string;
   description: string;
