@@ -70,9 +70,7 @@ export default async function PreviewPage({
   const pixelUrl = prospectId
     ? `${SMB_BASE}/api/preview/${prospectId}/view`
     : null;
-  const ctaUrl = prospectId
-    ? `${SMB_BASE}/api/preview/${prospectId}/interested`
-    : "https://azlabs.ai";
+  const decisionMakerName = data.decisionMakerName ?? null;
 
   return (
     <main className="min-h-screen bg-zinc-950">
@@ -88,7 +86,11 @@ export default async function PreviewPage({
       <FooterSection data={data} />
 
       {/* Scroll-triggered floating interest card — appears after 35% scroll or 8s */}
-      <InterestCta businessName={data.businessName} ctaUrl={ctaUrl} />
+      <InterestCta
+        businessName={data.businessName}
+        prospectId={prospectId ?? null}
+        decisionMakerName={decisionMakerName}
+      />
 
       {/* Invisible tracking pixel — fires on page load */}
       {pixelUrl && (
