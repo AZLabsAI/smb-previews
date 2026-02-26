@@ -1,0 +1,95 @@
+{
+  "slug": "sisusa-law",
+  "prospectId": "cmm3yd256000ck104me2g2xs2",
+  "businessName": "Sisusa Law",
+  "tagline": "Lawyer You Can Trust in 4th floor, Sunclare Building, 21 Dreyer St, Claremont, Cape Town, 7708, South Africa",
+  "description": "Sisusa Law delivers professional lawyer services to homes and businesses in 4th floor, Sunclare Building, 21 Dreyer St, Claremont, Cape Town, 7708, South Africa. We're committed to quality, reliability, and your complete satisfaction.",
+  "category": "Lawyer",
+  "location": "4th floor, Sunclare Building, 21 Dreyer St, Claremont, Cape Town, 7708, South Africa",
+  "phone": "082 938 4259",
+  "email": "lawyers@sisusalaw.com",
+  "address": "4th Floor Sunclare Building, 21 Dreyer Street, Claremont, Cape Town, 7708",
+  "website": "http://www.sisusalaw.com/",
+  "siteQualityScore": 22,
+  "decisionMakerName": "Zizipho",
+  "services": [
+    {
+      "name": "Conveyancing & Property Law",
+      "description": "Professional conveyancing & property law services delivered with expertise and care.",
+      "icon": "Wrench"
+    },
+    {
+      "name": "Estate Planning & Deceased Estate Administration",
+      "description": "Professional estate planning & deceased estate administration services delivered with expertise and care.",
+      "icon": "Shield"
+    },
+    {
+      "name": "Family Law & Notarial Services",
+      "description": "Professional family law & notarial services services delivered with expertise and care.",
+      "icon": "Zap"
+    },
+    {
+      "name": "Construction and Commercial Law",
+      "description": "Professional construction and commercial law services delivered with expertise and care.",
+      "icon": "Settings"
+    },
+    {
+      "name": "Litigation & Dispute Resolution",
+      "description": "Professional litigation & dispute resolution services delivered with expertise and care.",
+      "icon": "Flame"
+    },
+    {
+      "name": "Road Accident Claims & Medical Malpractice",
+      "description": "Professional road accident claims & medical malpractice services delivered with expertise and care.",
+      "icon": "Star"
+    }
+  ],
+  "stats": [
+    {
+      "value": "100%",
+      "label": "Satisfaction Guaranteed",
+      "description": "We stand behind every job"
+    },
+    {
+      "value": "5★",
+      "label": "Customer Rated",
+      "description": "Consistently top-reviewed"
+    },
+    {
+      "value": "Fast",
+      "label": "Response Time",
+      "description": "Quick turnaround on all requests"
+    },
+    {
+      "value": "Local",
+      "label": "Trusted & Established",
+      "description": "Serving 4th floor, Sunclare Building, 21 Dreyer St, Claremont, Cape Town, 7708, South Africa"
+    }
+  ],
+  "teamMembers": [
+    {
+      "name": "Ms Lawrence"
+    },
+    {
+      "name": "Mrs Tatana"
+    },
+    {
+      "name": "Ms Bason"
+    },
+    {
+      "name": "Ms Mbeki"
+    },
+    {
+      "name": "Mrs Mazwi"
+    },
+    {
+      "name": "Mr Marankey"
+    }
+  ],
+  "brandColors": {
+    "primary": "#15E4A9",
+    "accent": "#A886CD"
+  },
+  "ctaLabel": "Get a Free Quote",
+  "footerTagline": "Quality lawyer services in 4th floor, Sunclare Building, 21 Dreyer St, Claremont, Cape Town, 7708, South Africa."
+}
