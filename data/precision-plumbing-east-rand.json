@@ -1,0 +1,73 @@
+{
+  "slug": "precision-plumbing-east-rand",
+  "prospectId": "cmm0lz06j0004jp04a3y3ht2m",
+  "businessName": "Precision Plumbing East Rand",
+  "tagline": "Plumber You Can Trust in 23 Phoenix Ave, Morehill, Benoni, 1501, South Africa",
+  "description": "Precision Plumbing East Rand delivers professional plumber services to homes and businesses in 23 Phoenix Ave, Morehill, Benoni, 1501, South Africa. We're committed to quality, reliability, and your complete satisfaction.",
+  "category": "Plumber",
+  "location": "23 Phoenix Ave, Morehill, Benoni, 1501, South Africa",
+  "phone": "+27 61 587 7976",
+  "address": "23 Phoenix Ave, Morehill, Benoni, 1501, South Africa",
+  "website": "https://rfq.africa/providers/precision-plumbing-east-rand/",
+  "siteQualityScore": 67,
+  "services": [
+    {
+      "name": "Leak detection and repair",
+      "description": "Professional leak detection and repair services delivered with expertise and care.",
+      "icon": "Wrench"
+    },
+    {
+      "name": "Blocked drains and sewerage solutions",
+      "description": "Professional blocked drains and sewerage solutions services delivered with expertise and care.",
+      "icon": "Shield"
+    },
+    {
+      "name": "Tap, toilet, and fixture installation and repair",
+      "description": "Professional tap, toilet, and fixture installation and repair services delivered with expertise and care.",
+      "icon": "Zap"
+    },
+    {
+      "name": "Hot water systems and boiler servicing",
+      "description": "Professional hot water systems and boiler servicing services delivered with expertise and care.",
+      "icon": "Settings"
+    },
+    {
+      "name": "Pipe installation, replacement, and upgrading",
+      "description": "Professional pipe installation, replacement, and upgrading services delivered with expertise and care.",
+      "icon": "Flame"
+    },
+    {
+      "name": "Pressure optimisation and water-saving recommendations",
+      "description": "Professional pressure optimisation and water-saving recommendations services delivered with expertise and care.",
+      "icon": "Star"
+    }
+  ],
+  "stats": [
+    {
+      "value": "100%",
+      "label": "Satisfaction Guaranteed",
+      "description": "We stand behind every job"
+    },
+    {
+      "value": "5★",
+      "label": "Customer Rated",
+      "description": "Consistently top-reviewed"
+    },
+    {
+      "value": "Fast",
+      "label": "Response Time",
+      "description": "Quick turnaround on all requests"
+    },
+    {
+      "value": "Local",
+      "label": "Trusted & Established",
+      "description": "Serving 23 Phoenix Ave, Morehill, Benoni, 1501, South Africa"
+    }
+  ],
+  "brandColors": {
+    "primary": "#1E73BE",
+    "accent": "#6C757D"
+  },
+  "ctaLabel": "Get a Free Quote",
+  "footerTagline": "Quality plumber services in 23 Phoenix Ave, Morehill, Benoni, 1501, South Africa."
+}
